@@ -34,7 +34,7 @@ Nancy grande Ramirez
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
 <acces oring="http://*/*"/>
-<plugin name="cordova-plugin
+<plugin name="cordova-plugin"/>
 
 <!--Colocar icono app-->
 
